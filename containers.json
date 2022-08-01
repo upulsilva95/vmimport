@@ -1,0 +1,10 @@
+[
+    {
+      "Description": "My TPE Server OVA",
+      "Format": "ova",
+      "UserBucket": {
+          "S3Bucket": "tpe-ova-image-bucket",
+          "S3Key": "tpe-7-1-1.ova"
+      }
+    }
+  ]
